@@ -1,0 +1,10 @@
+#jqdrag {
+  display: block;
+  position: absolute;
+  width: 3em;
+  height: 3em;
+  background-color: rgb(118,29,29);
+  top: calc(100% - 3em);
+  left: calc(50% + 3em/2);
+}
+
